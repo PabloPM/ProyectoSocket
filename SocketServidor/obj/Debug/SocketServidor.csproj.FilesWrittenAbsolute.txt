@@ -1,0 +1,16 @@
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.Form1.resources
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.Properties.Resources.resources
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/bin/Debug/SocketServidor.exe.config
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/bin/Debug/SocketServidor.exe.mdb
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/bin/Debug/SocketServidor.exe
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.exe
+/home/pablopm/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.exe.mdb
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.Form1.resources
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.Properties.Resources.resources
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/bin/Debug/SocketServidor.exe.config
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/bin/Debug/SocketServidor.exe.mdb
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/bin/Debug/SocketServidor.exe
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.exe
+/home/dell/Dropbox/NET/Proyecto/ver-2/ProyectoSocket/SocketServidor/obj/Debug/SocketServidor.exe.mdb

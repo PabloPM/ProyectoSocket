@@ -1,0 +1,9 @@
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\bin\Release\SocketServidor.exe.config
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\bin\Release\SocketServidor.exe
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\bin\Release\SocketServidor.pdb
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\obj\Release\SocketServidor.csprojResolveAssemblyReference.cache
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\obj\Release\SocketServidor.Form1.resources
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\obj\Release\SocketServidor.Properties.Resources.resources
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\obj\Release\SocketServidor.csproj.GenerateResource.Cache
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\obj\Release\SocketServidor.exe
+C:\Users\dell-pc\Dropbox\NET\Proyecto\ver-2\ProyectoSocket\SocketServidor\obj\Release\SocketServidor.pdb

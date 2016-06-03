@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="SocketServidor/SocketServidor.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SocketServidor/Form1.cs">
+    <Files>
+      <File FileName="SocketServidor/Form1.cs" Line="28" Column="46" />
+      <File FileName="SocketServidor/Servidor.cs" Line="79" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
